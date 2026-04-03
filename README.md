@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Distributed E-Commerce Order Engine 🛒
 
 **Hackathon Submission** — `VardhanJakka_Ecommerce_Order_Engine_Hackathon`
@@ -137,4 +136,4 @@ ecommerce_engine/
 ```
 =======
 # Ecomerce_Backend
->>>>>>> 84392896dd1e2a72855fc87cb38a2ad4dfe0aea5
+
